@@ -2,7 +2,7 @@
 
 : This batch file for Windows auto update the public IPv6 address to DYNV6 API.
 
-: Please replace dynv6's Token and Domain here.
+: Please replace dynv6's Token and Dynamic domain here.
 
 set _ToKen=<Your ynv6's Token xxxxxxxxxxxxxxxxxx>
 
